@@ -14,8 +14,8 @@ all git command
 		
 
 	    Example:
-	    git config –global user.name “Ankith G”
-	    git config –global user.email “ankithg03@gmail.com”
+	    git config –global user.name “sanjay-codez”
+	    git config –global user.email “sanjay.d@gmail.com”
 4. **git add**: for adding the files to git 
 
         syntax: git add <file>
