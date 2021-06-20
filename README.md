@@ -20,7 +20,7 @@ all git command
 
         syntax: git add <file>
         Example:
-	    git add code/Codilar/merchant
+	    git add code/Codilar/Merchant
 5. **git commit**: In Simple words git commit is like a storing of code in a separate space where all the things you commit are tracked.
 		
 		syntax: 
