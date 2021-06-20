@@ -20,14 +20,14 @@ all git command
 
         syntax: git add <file>
         Example:
-	    git add code/Codilar/Merchant
+	    git add code/Codilar/merchant
 5. **git commit**: In Simple words git commit is like a storing of code in a separate space where all the things you commit are tracked.
 		
 		syntax: 
 		       git commit -m "Message"
 		       git commit --amend -m "Change the Message"
         Example:
-	    git commit -m "[feature/Merchant] Instagram Module Added"
+	    git commit -m "[feature/merchant] Merchant Module Added"
 6. **git branch**: This command lists all the local branches in the current repository.
 		
 		syntax: 
